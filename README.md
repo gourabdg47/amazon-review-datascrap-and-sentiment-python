@@ -1,4 +1,4 @@
-![amazon.com](https://64.media.tumblr.com/e28121bb8c71f7a7104d84d490ca72aa/tumblr_nd1e99rLaM1r8tkaro8_400.gifv) # Amazon-review-datascrap-and-sentiment-python
+# ![amazon.com](https://img.icons8.com/color/344/amazon.png) Amazon-review-datascrap-and-sentiment-python
 Scrap amazon reviews and do sentiment analysis on them
 
 
