@@ -42,7 +42,7 @@ The name of the file is *app.py* which can be found in the submission folder
 ### End Result :
 ![Request from flask API](https://i.ibb.co/CVh2qHB/API-amz-review-sentiment-v1.png)
 ![Dataframe with sentiment](https://i.ibb.co/vcD3s6P/amz-review-Vader-sentiment.png)
-<img src="https://i.ibb.co/vcD3s6P/amz-review-Vader-sentiment.png" width="255" height="255">
+<img src="https://i.ibb.co/vcD3s6P/amz-review-Vader-sentiment.png" width="255" height="500">
 
 *Thank you*
 **Gourab Dasgupta**
