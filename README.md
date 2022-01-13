@@ -1,4 +1,4 @@
-# amazon-review-datascrap-and-sentiment-python
+# Amazon-review-datascrap-and-sentiment-python
 Scrap amazon reviews and do sentiment analysis on them
 
 
