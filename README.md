@@ -40,7 +40,8 @@ The name of the file is *app.py* which can be found in the submission folder
 ```
 
 ### End Result:
-![This is an image](https://ibb.co/7SbngdW)
+![Request from flask API](https://i.ibb.co/CVh2qHB/API-amz-review-sentiment-v1.png)
+![Dataframe with sentiment](https://i.ibb.co/vcD3s6P/amz-review-Vader-sentiment.png)
 
 *Thank you*
 **Gourab Dasgupta**
