@@ -1,4 +1,4 @@
-# ![amazon.com](https://img.icons8.com/cute-clipart/344/amazon.png) Amazon-review-datascrap-and-sentiment-python
+# <img src="https://img.icons8.com/cute-clipart/344/amazon.png" width="100" height="100"> Amazon-review-datascrap-and-sentiment-python
 Scrap amazon reviews and do sentiment analysis on them
 
 
