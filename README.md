@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/cute-clipart/344/amazon.png" width="25" height="25"> Amazon-review-datascrap-and-sentiment-python
+# <img src="https://img.icons8.com/carbon-copy/344/amazon.png" width="25" height="25"> Amazon-review-datascrap-and-sentiment-python
 Scrap amazon reviews and do sentiment analysis on them
 
 
