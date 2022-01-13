@@ -29,6 +29,7 @@ Here also I have used **TextBlob** and **Vader** libraries to get the  sentiment
 The name of the file is *app.py* which can be found in the submission folder
 
 ### Steps to run the code: 
+```python
 > Create a virtual environment, activate it
 
 > Run “pip install -r requirements.txt” to install all the dependencies
@@ -36,6 +37,7 @@ The name of the file is *app.py* which can be found in the submission folder
 > Since to achieve Step 1, 2 and 3, I have used jupyter notebook, run the command : Jupyter notebook amazon-scrap-LIVE-v2.ipynb
 
 > Now to run the flask api, run the command: Python app.py
+```
 
 *Thank you*
 **Gourab Dasgupta**
